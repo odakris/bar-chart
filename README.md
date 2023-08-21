@@ -11,7 +11,7 @@ Live demo of **[Bar Chart](https://codepen.io/odakris/full/MWPNbjG)**
 
 This is Bar Chart of Gross Domestic Product evolution of the United States from 1947 to 2015.
 
-This project is part of the **[freeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart)** Data Visualization Projects certification.
+This project is part of the **[freeCodeCamp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart)** Data Visualization projects certification.
 
 <p align="center">
   <img src="./images/barchart.png">
